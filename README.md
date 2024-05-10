@@ -3,4 +3,5 @@ This is a team collaboration effort, as we divided into sub teams to handle fron
 This project has been made a reality through the combined efforts of:
 https://github.com/1iqrashaheen   https://github.com/KashfKamal217  https://github.com/1iqrashaheen  https://github.com/Mujtaba0150 and me.
 
+Moreover, I would like to extend gratitude to https://github.com/memoriesbytalha for theur moral support during this project.
 The demo video along with an exported database can be found among the files.
